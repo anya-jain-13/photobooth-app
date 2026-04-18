@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.PhotoBooth" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorPrimaryVariant">@color/pink</item>
+        <item name="colorOnPrimary">@color/text_dark</item>
+
+        <item name="colorSecondary">@color/pink</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:statusBarColor">@color/black</item>
+
+    </style>
+</resources>
